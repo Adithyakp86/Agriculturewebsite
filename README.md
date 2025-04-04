@@ -35,15 +35,6 @@ Open phpMyAdmin.
 Create a new database (e.g., agriculture_db).
 Import the provided SQL file (database.sql) into the database.
 
-Steps to Run the Project
-==========================
-<?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "agriculture_db";
-?>
-
 Configure Database Connection
 =======================================
 Open config.php and update the database credentials:
