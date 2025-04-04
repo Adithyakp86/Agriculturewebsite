@@ -29,6 +29,12 @@ Payment Gateway: paytm
 Prerequisites
 -XAMPP or any local server with PHP and MySQL support
 
+Set Up Database
+=================
+Open phpMyAdmin.
+Create a new database (e.g., agriculture_db).
+Import the provided SQL file (database.sql) into the database.
+
 Steps to Run the Project
 ==========================
 <?php
