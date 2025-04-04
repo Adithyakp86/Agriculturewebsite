@@ -37,7 +37,7 @@ $username = "root";
 $password = "";
 $dbname = "agriculture_db";
 ?>
-
+========================
 Set Up Database
 ================
 Open phpMyAdmin.
