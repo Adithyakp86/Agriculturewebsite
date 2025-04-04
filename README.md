@@ -31,6 +31,12 @@ Prerequisites
 
 Steps to Run the Project
 ==========================
+<?php
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "agriculture_db";
+?>
 Set Up Database
 ================
 Open phpMyAdmin.
