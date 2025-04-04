@@ -37,12 +37,6 @@ $username = "root";
 $password = "";
 $dbname = "agriculture_db";
 ?>
-========================
-Set Up Database
-================
-Open phpMyAdmin.
-Create a new database (e.g., agriculture_db).
-Import the provided SQL file (database.sql) into the database.
 
 Configure Database Connection
 =======================================
