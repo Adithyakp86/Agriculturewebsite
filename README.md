@@ -57,8 +57,10 @@ Make your changes and test them.
 Submit a pull request for review.
 
 📜 License
+===========================
 This project is open-source and available under the MIT License.
 
 📞 Contact
+=======================
 For queries, reach out at adithyakp802@gmail.com or visit the GitHub repo here.
 
