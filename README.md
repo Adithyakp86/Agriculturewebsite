@@ -40,14 +40,12 @@ Import the provided SQL file (database.sql) into the database.
 Configure Database Connection
 =======================================
 Open config.php and update the database credentials:
-
 <?php
 $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "agriculture_db";
 ?>
-
 Start Local Server
 ================================
 Open XAMPP and start Apache and MySQL.
